@@ -1,0 +1,13 @@
+{
+  "name": "ChromeColle",
+  "description": "KanColle in your Chrome",
+  "homepage": "",
+  "keywords": [
+  ],
+  "author": "southrop <southrop113@gmail.com>",
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer#latest",
+    "paper-elements": "Polymer/paper-elements#latest"
+  }
+}
