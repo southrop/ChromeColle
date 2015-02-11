@@ -1,0 +1,12 @@
+body {
+  margin: 0 !important;
+  overflow: hidden !important;
+}
+
+#game_frame {
+  position: fixed !important;
+  left: 50% !important;
+  top: 0px !important;
+  margin-left: -400px !important;
+  z-index: 1 !important;
+}
