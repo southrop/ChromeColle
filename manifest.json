@@ -4,7 +4,6 @@
   "short_name": "ChromeColle",
   "description": "KanColle in your Chrome",
   "version": "0.0.1",
-  "version_name": "0.0.1 beta",
   "author": "southrop <southrop113@gmail.com>",
   "minimum_chrome_version": "38",
   "default_locale": "en",
