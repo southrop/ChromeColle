@@ -2,12 +2,12 @@
   "name": "ChromeColle",
   "description": "KanColle in your Chrome",
   "homepage": "",
-  "keywords": [
-  ],
+  "keywords": [],
   "author": "southrop <southrop113@gmail.com>",
   "private": true,
   "dependencies": {
     "polymer": "Polymer/polymer#latest",
-    "paper-elements": "Polymer/paper-elements#latest"
+    "paper-elements": "Polymer/paper-elements#latest",
+    "roboto-fontface": "~0.2.7"
   }
 }
