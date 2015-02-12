@@ -8,6 +8,7 @@
   "dependencies": {
     "polymer": "Polymer/polymer#latest",
     "paper-elements": "Polymer/paper-elements#latest",
-    "roboto-fontface": "~0.2.7"
+    "roboto-fontface": "~0.2.7",
+    "angular": "1.2.28"
   }
 }
